@@ -1,0 +1,49 @@
+Test set is 80000 lines (72121 positive)
+          Perceptron classifier : 	 20000 train lines ( 17974 positive)  80000 test lines ( 72121 positive) accuracy: 0.959 in 1.07s (18641 lines/s)
+      NB Multinomial classifier : 	 20000 train lines ( 17974 positive)  80000 test lines ( 72121 positive) accuracy: 0.976 in 1.13s (17762 lines/s)
+  Passive-Aggressive classifier : 	 20000 train lines ( 17974 positive)  80000 test lines ( 72121 positive) accuracy: 0.981 in 1.16s (17300 lines/s)
+                 SGD classifier : 	 20000 train lines ( 17974 positive)  80000 test lines ( 72121 positive) accuracy: 0.975 in 1.19s (16861 lines/s)
+
+
+          Perceptron classifier : 	 60000 train lines ( 54039 positive)  80000 test lines ( 72121 positive) accuracy: 0.977 in 1.77s (33941 lines/s)
+      NB Multinomial classifier : 	 60000 train lines ( 54039 positive)  80000 test lines ( 72121 positive) accuracy: 0.980 in 1.82s (32969 lines/s)
+  Passive-Aggressive classifier : 	 60000 train lines ( 54039 positive)  80000 test lines ( 72121 positive) accuracy: 0.985 in 1.85s (32434 lines/s)
+                 SGD classifier : 	 60000 train lines ( 54039 positive)  80000 test lines ( 72121 positive) accuracy: 0.975 in 1.88s (31898 lines/s)
+
+
+          Perceptron classifier : 	100000 train lines ( 90092 positive)  80000 test lines ( 72121 positive) accuracy: 0.980 in 2.46s (40641 lines/s)
+      NB Multinomial classifier : 	100000 train lines ( 90092 positive)  80000 test lines ( 72121 positive) accuracy: 0.982 in 2.51s (39781 lines/s)
+  Passive-Aggressive classifier : 	100000 train lines ( 90092 positive)  80000 test lines ( 72121 positive) accuracy: 0.986 in 2.55s (39265 lines/s)
+                 SGD classifier : 	100000 train lines ( 90092 positive)  80000 test lines ( 72121 positive) accuracy: 0.976 in 2.58s (38807 lines/s)
+
+
+          Perceptron classifier : 	140000 train lines (126128 positive)  80000 test lines ( 72121 positive) accuracy: 0.980 in 3.16s (44298 lines/s)
+      NB Multinomial classifier : 	140000 train lines (126128 positive)  80000 test lines ( 72121 positive) accuracy: 0.983 in 3.21s (43647 lines/s)
+  Passive-Aggressive classifier : 	140000 train lines (126128 positive)  80000 test lines ( 72121 positive) accuracy: 0.988 in 3.24s (43241 lines/s)
+                 SGD classifier : 	140000 train lines (126128 positive)  80000 test lines ( 72121 positive) accuracy: 0.976 in 3.27s (42843 lines/s)
+
+
+          Perceptron classifier : 	180000 train lines (162099 positive)  80000 test lines ( 72121 positive) accuracy: 0.984 in 3.87s (46508 lines/s)
+      NB Multinomial classifier : 	180000 train lines (162099 positive)  80000 test lines ( 72121 positive) accuracy: 0.983 in 3.92s (45937 lines/s)
+  Passive-Aggressive classifier : 	180000 train lines (162099 positive)  80000 test lines ( 72121 positive) accuracy: 0.988 in 3.95s (45598 lines/s)
+                 SGD classifier : 	180000 train lines (162099 positive)  80000 test lines ( 72121 positive) accuracy: 0.975 in 3.98s (45230 lines/s)
+
+
+          Perceptron classifier : 	220000 train lines (198067 positive)  80000 test lines ( 72121 positive) accuracy: 0.983 in 4.57s (48170 lines/s)
+      NB Multinomial classifier : 	220000 train lines (198067 positive)  80000 test lines ( 72121 positive) accuracy: 0.984 in 4.62s (47636 lines/s)
+  Passive-Aggressive classifier : 	220000 train lines (198067 positive)  80000 test lines ( 72121 positive) accuracy: 0.989 in 4.65s (47318 lines/s)
+                 SGD classifier : 	220000 train lines (198067 positive)  80000 test lines ( 72121 positive) accuracy: 0.976 in 4.68s (47014 lines/s)
+
+
+          Perceptron classifier : 	260000 train lines (233995 positive)  80000 test lines ( 72121 positive) accuracy: 0.983 in 5.27s (49382 lines/s)
+      NB Multinomial classifier : 	260000 train lines (233995 positive)  80000 test lines ( 72121 positive) accuracy: 0.984 in 5.31s (48926 lines/s)
+  Passive-Aggressive classifier : 	260000 train lines (233995 positive)  80000 test lines ( 72121 positive) accuracy: 0.989 in 5.34s (48669 lines/s)
+                 SGD classifier : 	260000 train lines (233995 positive)  80000 test lines ( 72121 positive) accuracy: 0.976 in 5.37s (48405 lines/s)
+
+
+          Perceptron classifier : 	300000 train lines (269915 positive)  80000 test lines ( 72121 positive) accuracy: 0.985 in 5.96s (50353 lines/s)
+      NB Multinomial classifier : 	300000 train lines (269915 positive)  80000 test lines ( 72121 positive) accuracy: 0.984 in 6.01s (49950 lines/s)
+  Passive-Aggressive classifier : 	300000 train lines (269915 positive)  80000 test lines ( 72121 positive) accuracy: 0.989 in 6.04s (49709 lines/s)
+                 SGD classifier : 	300000 train lines (269915 positive)  80000 test lines ( 72121 positive) accuracy: 0.976 in 6.07s (49462 lines/s)
+
+
